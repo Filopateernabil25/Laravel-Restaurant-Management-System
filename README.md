@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🍛 Laravel - Restaurant Menu Platform
 
 ## Overview
